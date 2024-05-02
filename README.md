@@ -10,4 +10,4 @@ Input:
 
 Output:
 
-![alt_text](https://github.com/Jorge36/Jackson-Databinding-Json/blob/c27bf372b96c712714eb59d8953627122521aaba/Testing/result.pngg)
+![alt_text](https://github.com/Jorge36/Jackson-Databinding-Json/blob/c27bf372b96c712714eb59d8953627122521aaba/Testing/result.png)
