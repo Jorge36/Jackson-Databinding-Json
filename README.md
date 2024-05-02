@@ -1,4 +1,4 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemy
 
 jackson databinding json 
 
